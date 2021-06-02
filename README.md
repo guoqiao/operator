@@ -146,7 +146,7 @@ my-charm/
 │   └── charm.py
 ├── tests
 │   ├── __init__.py
-│   └── my_charm.py
+│   └── test_charm.py
 ```
 
 `src/charm.py` here is the entry point to your charm code. At a minimum, it
